@@ -66,7 +66,7 @@ export Cancel_running="0"                    # 取消路由器每天跑分任务
 
 
 # 晶晨CPU系列打包固件设置(不懂请看说明)
-export amlogic_model="s905d"
+export amlogic_model="s805"
 export amlogic_kernel="5.10.01_6.1.01"
 export auto_kernel="true"
 export rootfs_size="2560"
